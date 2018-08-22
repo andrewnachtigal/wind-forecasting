@@ -1,1 +1,1 @@
-# Shortterm Wind Power Forecasting
+# Short-term Wind Power Forecasting
