@@ -1,3 +1,5 @@
+![](/art/wind-power.png?raw=true)
+
 # Short Term Wind Power Forecasting
 
 Wind Power Forecasting with a LSTM RNN model.
